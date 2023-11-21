@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikita Agrawal</h1>
-<h3 align="center">Computer Science Master Student; Web Developer migrating to Data Analyst</h3>
+<h3 align="center">Computer Science Master Student; Machine Learning enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikagrwal" alt="nikagrwal" /></a> </p>
 
-- 🌱 I’m currently learning **PowerBI; Machine Learning**
+- 🌱 My top skills include **Python; Machine Learning; Deep Learning; LLM**
 
 - 📫 How to reach me **nikagrwal662@gmail.com**
 
