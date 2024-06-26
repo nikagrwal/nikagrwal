@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Agrawal</h1>
-<h3 align="center">Computer Science Master Student; Machine Learning enthusiast</h3>
+<h3 align="center">Computer Science Master Student; Software Developer: Machine Learning enthusiast</h3>
 
-- 🌱 My top skills include **Python; Machine Learning; Deep Learning; LLM**
+- 🌱 My top skills include **JAVA; JavaScript; Python; SQL; Machine Learning; Deep Learning**
 
 - 📫 How to reach me **nikagrwal662@gmail.com**
 
